@@ -1,7 +1,10 @@
+package F02_12_2022;
+
 import java.util.*;
-public class F02_12_2022 {
+public class Tasks {
     public static void main (String[] args) {
         Task3.main();
+        System.out.println("Hi!");
     }
 }
 
