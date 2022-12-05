@@ -1,4 +1,4 @@
-package F18_11_2022;
+package Tutorials.F18_11_2022;
 
 import java.util.Scanner;
 

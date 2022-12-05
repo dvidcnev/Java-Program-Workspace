@@ -1,4 +1,4 @@
-package F02_12_2022;
+package Tutorials.F02_12_2022;
 
 import java.util.*;
 public class Tasks {
