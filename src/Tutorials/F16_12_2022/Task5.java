@@ -25,14 +25,15 @@ public class Task5 {
         b1.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent actionEvent) {
+                b.setBackground(Color.green);
                 counter--;
                 label.setText("The value of the counter is " + counter);
             }
         });
 
         //adding the panels
-        panel.add(label);
         panel.add(b);
+        panel.add(label);
         panel.add(b1);
 
         //finishing up frame
